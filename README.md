@@ -34,7 +34,14 @@ LayoutLoopHunter.setUp(for: view) {
 ## Author
 
 Ruslan Serebriakov
+
 Twitter: [@rsrbk123](https://twitter.com/rsrbk123)
+
+## Check out my other libraries
+
+[SmileToUnlock](https://github.com/rsrbk/SRCountdownTimer) - this library uses ARKit Face Tracking in order to catch a user's smile..<br>
+[SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) - a simple circle countdown with a configurable timer.<br>
+[SRAttractionsMap](https://github.com/rsrbk/SRAttractionsMap) - the map with attractions on which you can click and see the full description.
 
 ## License
 
