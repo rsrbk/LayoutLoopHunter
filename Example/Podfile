@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LayoutLoopHunter_Example' do
+  pod 'LayoutLoopHunter', :path => '../'
+
+  target 'LayoutLoopHunter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
