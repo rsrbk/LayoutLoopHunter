@@ -28,7 +28,7 @@ static func setUp(for view: UIView, threshold: Int = 100, onLoop: @escaping () -
 
 ```swift
 LayoutLoopHunter.setUp(for: view) {
-print("Hello, world")
+  print("Hello, world")
 }
 ```
 ## Author
