@@ -1,0 +1,16 @@
+PODS:
+  - LayoutLoopHunter (0.1.0)
+
+DEPENDENCIES:
+  - LayoutLoopHunter (from `../`)
+
+EXTERNAL SOURCES:
+  LayoutLoopHunter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LayoutLoopHunter: 0ada07536a82d44d663d1f57dcc3f8a9e1515205
+
+PODFILE CHECKSUM: 669f09ac12630b4e739243cc23b1dcfd6cac8ab5
+
+COCOAPODS: 1.5.3
