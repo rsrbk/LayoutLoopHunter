@@ -7,7 +7,7 @@
 
 ![img](https://cdn-images-1.medium.com/max/1600/0*zrLTiLtPpTx3nb9-.jpg)
 
-The library helps to catch the OOMs cause by Autolayout Feedback Loop by replicating the behaviour of `UIViewLayoutFeedbackLoopDebuggingThreshold` in the live code.
+The library helps to catch the OOMs caused by Autolayout Feedback Loop by replicating the behavior of `UIViewLayoutFeedbackLoopDebuggingThreshold` in the live code.
 
 This is the final result of the runtime tutorial on [AppCoda](https://www.appcoda.com/layout-feedback-loop/).
 
