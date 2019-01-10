@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/LayoutLoopHunter.svg?style=flat)](https://cocoapods.org/pods/LayoutLoopHunter)
 [![Platform](https://img.shields.io/cocoapods/p/LayoutLoopHunter.svg?style=flat)](https://cocoapods.org/pods/LayoutLoopHunter)
 
+![img](https://cdn-images-1.medium.com/max/1600/0*zrLTiLtPpTx3nb9-.jpg)
+
 The library helps to catch the OOMs cause by Autolayout Feedback Loop by replicating the behaviour of `UIViewLayoutFeedbackLoopDebuggingThreshold` in the live code.
 
 This is the final result of the runtime tutorial on [AppCoda](https://www.appcoda.com/layout-feedback-loop/).
